@@ -1,2 +1,2 @@
-Word = "Hello world"
-print(Word)
+world = "Hello world"
+print(world)
